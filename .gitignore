@@ -4,3 +4,8 @@
 */cache/*
 */cache/!index.html
 */cache/!.htaccess
+.idea/
+.htaccess
+application/config/config.php
+application/config/database.php
+
